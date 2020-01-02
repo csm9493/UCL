@@ -1,6 +1,8 @@
+
 UCL(Published at NeurIPS 2019)
 ================================
-### This repository is implementation for the paper Uncertainty-based continual learning with adaptive regularization by Hongjoon Ahn, Sungmin Cha, Donggyu Lee, and Taesup Moon
+
+### This repository is implementation for the paper [Uncertainty-based Continual Learning with Adaptive Regularization](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization) by Hongjoon Ahn\*, Sungmin Cha\*, Donggyu Lee, and Taesup Moon
 
 Running UCL on various dataset
 --------------------------------
