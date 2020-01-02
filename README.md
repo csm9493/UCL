@@ -36,3 +36,8 @@ Running UCL on various dataset
 Note
 =====
 #### In this repository, it only contains the implementations for supervised learning experiments in UCL. We'll release the implementations for reinforcement learning experiments soon.
+
+Reference
+=========
+1. Bayesian neural network implementation has been modified from: https://github.com/nitarshan/bayes-by-backprop/blob/master/Weight%20Uncertainty%20in%20Neural%20Networks.ipynb
+2. The whole experiment framework has been modified from: https://github.com/joansj/hat
