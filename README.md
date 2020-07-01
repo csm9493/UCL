@@ -60,7 +60,7 @@ This code is implemented by reference to [pytorch-a2c-ppo-acktr-gaail](https://g
 
 ​	[OpenAI Gym](https://github.com/openai/gym#installation), [Baselines](https://github.com/openai/baselinesn), [Roboschool](https://github.com/openai/roboschool)
 
-#### 3) Implemetation commend
+#### 3) Execution command
 
 ```
 # Fine-tuning
