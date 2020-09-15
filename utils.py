@@ -249,7 +249,7 @@ def fisher_matrix_diag(t,x,y,model,criterion,sbatch=20, split = False):
     for n,p in model.named_parameters():
         fisher[n]=0*p.data
     # Compute
-#     model.train()
+    model.train()
     
     for i in tqdm(range(0,x.size(0),sbatch),desc='Fisher diagonal',ncols=100,ascii=True):
         b=torch.LongTensor(np.arange(i,np.min([i+sbatch,x.size(0)]))).cuda()
