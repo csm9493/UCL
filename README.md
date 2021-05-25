@@ -69,7 +69,7 @@ $ CUDA_VISIBLE_DEVICES=0 python3 main_rl.py --experiment 'roboschool'  --approac
 # EWC
 $ CUDA_VISIBLE_DEVICES=0 python3 main_rl.py --experiment 'roboschool'  --approach 'ewc'  --ewc-lambda 5000 --date 191014
 
-# AGS-CL
+# UCL
 $ CUDA_VISIBLE_DEVICES=0 python3 main_rl.py --experiment 'roboschool'  --approach ‘ucl’  --ucl-rho -2.2522 -ucl-beta 0.001 --date 191014
 ```
 
